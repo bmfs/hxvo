@@ -1,0 +1,7 @@
+You can use the VO.hx class to load a JSON structured data into a generic class.
+
+##Usage
+Check the MyTypedVO.hx in the source code for a simple example.
+
+##Note
+Haven't really properly tested this VO class , although I've been using it in several personal projects and so far haven't met any issues. Please take this into account.
